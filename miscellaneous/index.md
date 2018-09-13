@@ -12,3 +12,7 @@
 ## Refactoring controller:
 * [[VIDEO] - Refactoring Controller Methods in Rails](https://gorails.com/episodes/refactoring-controller-methods)
 * [You Don't (Necessarily) Need Gem for That Feature](http://karolgalanciak.com/blog/2014/04/27/you-dont-necessarily-need-gem-for-that-feature/)
+
+
+## TDD
+* [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/)
